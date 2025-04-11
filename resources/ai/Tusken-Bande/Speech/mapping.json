@@ -29,8 +29,8 @@
   "no_help_2"    : "tusken_nohelp_02.wav",
   "no_sent"      : "tusken_notsent_01.wav",
   "sent"         : "tusken_sent_01.wav",
-  "team_losing"  : "tusken_team_winning_01.wav",
-  "team_winning" : "tusken_team_losing_01.wav",
+  "team_losing"  : "tusken_team_losing_01.wav",
+  "team_winning" : "tusken_team_winning_01.wav",
   "help_sent"    : "tusken_helpsent_01.wav",
   "will_attack"  : "tusken_willattack_01.wav"
 }
