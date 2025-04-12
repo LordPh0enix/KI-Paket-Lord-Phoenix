@@ -69,7 +69,7 @@
 	"MaxWood": 40,
 	"MaxStone": 40,
 	"MaxResourceOther": 5,
-	"MaxEquipment": 10,
+	"MaxEquipment": 20,
 	"MaxBeer": 5,
 	"MaxResourceVariance": 2,
 	"RecruitGoldThreshold": 6,
