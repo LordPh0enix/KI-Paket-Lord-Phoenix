@@ -187,8 +187,8 @@
 	"AttUnitSiegeDefGroupsCount": 1,
 	"AttUnitMain1": "Spearman",
 	"AttUnitMain2": "Spearman",
-	"AttUnitMain3": "None",
-	"AttUnitMain4": "None",
+	"AttUnitMain3": "ArabSwordsman",
+	"AttUnitMain4": "Spearman",
 	"AttMaxDefault": 300,
 	"AttMainGroupsCount": 2,
 	"TargetChoice": "Balanced"

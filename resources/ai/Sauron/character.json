@@ -188,8 +188,8 @@
     "AttUnitSiegeDefGroupsCount": 0,
     "AttUnitMain1": "Maceman",
     "AttUnitMain2": "Maceman",
-    "AttUnitMain3": "None",
-    "AttUnitMain4": "None",
+    "AttUnitMain3": "Maceman",
+    "AttUnitMain4": "Spearman",
     "AttMaxDefault": 300,
     "AttMainGroupsCount": 1,
     "TargetChoice": "Any"
