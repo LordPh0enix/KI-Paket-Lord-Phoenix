@@ -1,3 +1,4 @@
+
 {
   "lord": {
     "StrengthMultiplier": 1.8,
@@ -121,13 +122,13 @@
 	"OuterPatrolGroupsMove": "True",
 	"OuterPatrolRallyDelay": 1,
 	"DefWalls": 80,
-	"DefUnit1": "EuropArcher",
+	"DefUnit1": "Crossbowman",
 	"DefUnit2": "EuropArcher",
 	"DefUnit3": "Crossbowman",
 	"DefUnit4": "Crossbowman",
 	"DefUnit5": "Crossbowman",
 	"DefUnit6": "Crossbowman",
-	"DefUnit7": "EuropArcher",
+	"DefUnit7": "Crossbowman",
 	"DefUnit8": "EuropArcher",
 	"RaidUnitsBase": 10,
 	"RaidUnitsRandom": 0,
@@ -187,9 +188,9 @@
 	"AttUnitSiegeDefMax": 0,
 	"AttUnitSiegeDefGroupsCount": 1,
 	"AttUnitMain1": "Swordsman",
-	"AttUnitMain2": "Pikeman",
+	"AttUnitMain2": "Swordsman",
 	"AttUnitMain3": "Swordsman",
-	"AttUnitMain4": "None",
+	"AttUnitMain4": "Swordsman",
 	"AttMaxDefault": 300,
 	"AttMainGroupsCount": 2,
 	"TargetChoice": "Balanced"

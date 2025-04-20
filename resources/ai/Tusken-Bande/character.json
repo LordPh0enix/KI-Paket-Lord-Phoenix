@@ -113,7 +113,7 @@
 	"SortieUnitMelee": "Spearman",
 	"DefDiggingUnitMax": 5,
 	"DefDiggingUnit": "Slave",
-	"RecruitInterval": 1,
+	"RecruitInterval": 0,
 	"RecruitIntervalWeak": 2,
 	"RecruitIntervalStrong": 0,
 	"DefTotal": 90,
