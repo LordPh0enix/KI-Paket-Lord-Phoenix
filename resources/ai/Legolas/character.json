@@ -9,7 +9,7 @@
     "normal": {
       "ArabArcher": 5,
       "EuropArcher": 5,
-      "Swordsman": 8
+      "Swordsman": 5
     },
     "crusader": {
       "EuropArcher": 20,
@@ -75,7 +75,7 @@
 	"RecruitGoldThreshold": 30,
 	"BlacksmithSetting": "Swords",
 	"FletcherSetting": "Bows",
-	"PoleturnerSetting": "Spears",
+	"PoleturnerSetting": "Pikes",
 	"SellResource01": "None",
 	"SellResource02": "None",
 	"SellResource03": "None",
