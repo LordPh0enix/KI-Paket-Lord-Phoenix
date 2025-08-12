@@ -41,7 +41,7 @@
 	"Farm4": "DairyFarm",
 	"Farm5": "WheatFarm",
 	"Farm6": "HopFarm",
-	"Farm7": "None",
+	"Farm7": "DairyFarm",
 	"Farm8": "None",
 	"PopulationPerFarm": 1,
 	"PopulationPerWoodcutter": 1,
