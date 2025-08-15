@@ -1,15 +1,15 @@
 {
   "lord": {
-    "StrengthMultiplier": 1.8,
+    "StrengthMultiplier": 1.5,
     "DotCount": 2,
     "DotColour": "Green",
     "Type": "Europ"
   },
   "startTroops": {
     "normal": {
-      "ArabArcher": 5,
-      "EuropArcher": 5,
-      "Swordsman": 5
+      "ArabArcher": 3,
+      "EuropArcher": 2,
+      "Swordsman": 7
     },
     "crusader": {
       "EuropArcher": 20,
@@ -119,19 +119,19 @@
 	"OuterPatrolGroupsCount": 3,
 	"OuterPatrolGroupsMove": "True",
 	"OuterPatrolRallyDelay": 2,
-	"DefWalls": 75,
+	"DefWalls": 80,
 	"DefUnit1": "EuropArcher",
 	"DefUnit2": "ArabArcher",
 	"DefUnit3": "Crossbowman",
 	"DefUnit4": "EuropArcher",
 	"DefUnit5": "ArabArcher",
 	"DefUnit6": "FireThrower",
-	"DefUnit7": "ArabArcher",
+	"DefUnit7": "Pikeman",
 	"DefUnit8": "Crossbowman",
 	"RaidUnitsBase": 15,
 	"RaidUnitsRandom": 0,
 	"RaidUnit1": "Assassin",
-	"RaidUnit2": "None",
+	"RaidUnit2": "Assassin",
 	"RaidUnit3": "None",
 	"RaidUnit4": "None",
 	"RaidUnit5": "None",
@@ -168,7 +168,7 @@
 	"Unknown142": 0,
 	"AttMaxEngineers": 26,
 	"AttDiggingUnit": "Pikeman",
-	"AttDiggingUnitMax": 20,
+	"AttDiggingUnitMax": 30,
 	"AttUnitVanguard": "EuropArcher",
 	"AttUnitVanguardMax": 100,
 	"AttMaxAssassins": 65,
@@ -189,7 +189,7 @@
 	"AttUnitMain2": "Assassin",
 	"AttUnitMain3": "None",
 	"AttUnitMain4": "None",
-	"AttMaxDefault": 250,
+	"AttMaxDefault": 150,
 	"AttMainGroupsCount": 2,
 	"TargetChoice": "Balanced"
 }
