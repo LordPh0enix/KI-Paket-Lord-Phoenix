@@ -191,7 +191,7 @@
 	"AttUnitMain2": "Swordsman",
 	"AttUnitMain3": "Swordsman",
 	"AttUnitMain4": "Swordsman",
-	"AttMaxDefault": 300,
+	"AttMaxDefault": 200,
 	"AttMainGroupsCount": 1,
 	"TargetChoice": "Any"
 }
