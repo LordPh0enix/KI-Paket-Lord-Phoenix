@@ -46,7 +46,7 @@
 	"PopulationPerFarm": 1,
 	"PopulationPerWoodcutter": 1,
 	"PopulationPerQuarry": 15,
-	"PopulationPerIronmine": 15,
+	"PopulationPerIronmine": 35,
 	"PopulationPerPitchrig": 30,
 	"MaxQuarries": 5,
 	"MaxIronmines": 5,
@@ -189,7 +189,7 @@
 	"AttUnitMain2": "Maceman",
 	"AttUnitMain3": "Maceman",
 	"AttUnitMain4": "Maceman",
-	"AttMaxDefault": 0,
+	"AttMaxDefault": 100,
 	"AttMainGroupsCount": 1,
 	"TargetChoice": "Closest"
 }
