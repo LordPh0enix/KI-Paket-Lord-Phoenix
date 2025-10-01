@@ -7,7 +7,7 @@
   "defaultLang": "de",
   "supportedLang": ["de"],
   "switched": {
-    "binks": false,
+    "binks": true,
     "speech": false,
     "aic": true,
     "aiv": true,
