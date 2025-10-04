@@ -187,9 +187,9 @@
 	"AttUnitSiegeDefGroupsCount": 1,
 	"AttUnitMain1": "Assassin",
 	"AttUnitMain2": "Assassin",
-	"AttUnitMain3": "None",
+	"AttUnitMain3": "Pikeman",
 	"AttUnitMain4": "None",
-	"AttMaxDefault": 20,
+	"AttMaxDefault": 40,
 	"AttMainGroupsCount": 1,
 	"TargetChoice": "Balanced"
 }
