@@ -190,7 +190,7 @@
 	"AttUnitMain2": "Swordsman",
 	"AttUnitMain3": "Swordsman",
 	"AttUnitMain4": "Monk",
-	"AttMaxDefault": 250,
+	"AttMaxDefault": 70,
 	"AttMainGroupsCount": 2,
 	"TargetChoice": "Closest"
 }

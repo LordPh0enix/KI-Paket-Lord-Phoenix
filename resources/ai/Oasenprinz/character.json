@@ -190,7 +190,7 @@
 	"AttUnitMain2": "None",
 	"AttUnitMain3": "None",
 	"AttUnitMain4": "None",
-	"AttMaxDefault": 230,
+	"AttMaxDefault": 70,
 	"AttMainGroupsCount": 2,
 	"TargetChoice": "Balanced"
 }

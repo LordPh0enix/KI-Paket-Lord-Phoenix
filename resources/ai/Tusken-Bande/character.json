@@ -188,9 +188,9 @@
 	"AttUnitSiegeDefGroupsCount": 0,
 	"AttUnitMain1": "ArabSwordsman",
 	"AttUnitMain2": "ArabSwordsman",
-	"AttUnitMain3": "None",
+	"AttUnitMain3": "Maceman",
 	"AttUnitMain4": "None",
-	"AttMaxDefault": 250,
+	"AttMaxDefault": 50,
 	"AttMainGroupsCount": 1,
 	"TargetChoice": "Closest"
 }

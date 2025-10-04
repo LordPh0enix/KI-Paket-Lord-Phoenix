@@ -170,12 +170,12 @@
 	"AttMaxEngineers": 16,
 	"AttDiggingUnit": "Pikeman",
 	"AttDiggingUnitMax": 35,
-	"AttUnit2": "Pikeman",
+	"AttUnit2": "HorseArcher",
 	"AttUnit2Max": 75,
 	"AttMaxAssassins": 30,
 	"AttMaxLaddermen": 0,
 	"AttMaxTunnelers": 0,
-	"AttUnitPatrol": "HorseArcher",
+	"AttUnitPatrol": "Pikeman",
 	"AttUnitPatrolMax": 80,
 	"AttUnitPatrolGroupsCount": 0,
 	"AttUnitBackup": "Monk",
@@ -190,7 +190,7 @@
 	"AttUnitMain2": "Swordsman",
 	"AttUnitMain3": "Swordsman",
 	"AttUnitMain4": "None",
-	"AttMaxDefault": 260,
+	"AttMaxDefault": 80,
 	"AttMainGroupsCount": 2,
 	"TargetChoice": "Closest"
 }

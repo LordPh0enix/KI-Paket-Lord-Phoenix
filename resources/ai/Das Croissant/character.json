@@ -189,7 +189,7 @@
 	"AttUnitMain2": "Spearman",
 	"AttUnitMain3": "ArabSwordsman",
 	"AttUnitMain4": "Spearman",
-	"AttMaxDefault": 300,
+	"AttMaxDefault": 40,
 	"AttMainGroupsCount": 2,
 	"TargetChoice": "Balanced"
 }

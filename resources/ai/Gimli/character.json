@@ -189,7 +189,7 @@
 	"AttUnitMain2": "Maceman",
 	"AttUnitMain3": "Maceman",
 	"AttUnitMain4": "Maceman",
-	"AttMaxDefault": 100,
+	"AttMaxDefault": 40,
 	"AttMainGroupsCount": 1,
 	"TargetChoice": "Closest"
 }

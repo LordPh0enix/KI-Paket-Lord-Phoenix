@@ -189,7 +189,7 @@
 				"AttUnitMain2": "Maceman",
 				"AttUnitMain3": "Maceman",
 				"AttUnitMain4": "Spearman",
-				"AttMaxDefault": 250,
+				"AttMaxDefault": 50,
 				"AttMainGroupsCount": 1,
 				"TargetChoice": "Gold"
   }

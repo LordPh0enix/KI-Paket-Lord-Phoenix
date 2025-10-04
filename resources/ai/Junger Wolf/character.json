@@ -190,7 +190,7 @@
 	"AttUnitMain2": "Pikeman",
 	"AttUnitMain3": "None",
 	"AttUnitMain4": "None",
-	"AttMaxDefault": 250,
+	"AttMaxDefault": 100,
 	"AttMainGroupsCount": 1,
 	"TargetChoice": "Any"
 }

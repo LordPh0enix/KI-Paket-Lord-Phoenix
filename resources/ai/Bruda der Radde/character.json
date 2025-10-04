@@ -189,7 +189,7 @@
 	"AttUnitMain2": "Pikeman",
 	"AttUnitMain3": "Spearman",
 	"AttUnitMain4": "Pikeman",
-	"AttMaxDefault": 200,
+	"AttMaxDefault": 30,
 	"AttMainGroupsCount": 2,
 	"TargetChoice": "Balanced"
 }

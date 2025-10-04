@@ -170,8 +170,8 @@
 	"AttDiggingUnit": "Slave",
 	"AttDiggingUnitMax": 38,
 	"AttUnitVanguard": "ArabArcher",
-	"AttUnitVanguardMax": 40,
-	"AttMaxAssassins": 25,
+	"AttUnitVanguardMax": 60,
+	"AttMaxAssassins": 45,
 	"AttMaxLaddermen": 0,
 	"AttMaxTunnelers": 0,
 	"AttUnitPatrol": "Slinger",
@@ -189,7 +189,7 @@
 	"AttUnitMain2": "ArabSwordsman",
 	"AttUnitMain3": "None",
 	"AttUnitMain4": "None",
-	"AttMaxDefault": 270,
+	"AttMaxDefault": 50,
 	"AttMainGroupsCount": 1,
 	"TargetChoice": "Closest"
 }

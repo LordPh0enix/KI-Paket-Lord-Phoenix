@@ -188,10 +188,10 @@
 	"AttUnitSiegeDefGroupsCount": 1,
 	"AttUnitMain1": "Maceman",
 	"AttUnitMain2": "Maceman",
-	"AttUnitMain3": "Maceman",
+	"AttUnitMain3": "Spearman",
 	"AttUnitMain4": "None",
-	"AttMaxDefault": 220,
+	"AttMaxDefault": 60,
 	"AttMainGroupsCount": 2,
-	"TargetChoice": "Balanced"
+	"TargetChoice": "Gold"
 }
 }

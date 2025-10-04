@@ -191,7 +191,7 @@
 	"AttUnitMain2": "Swordsman",
 	"AttUnitMain3": "Swordsman",
 	"AttUnitMain4": "Swordsman",
-	"AttMaxDefault": 280,
+	"AttMaxDefault": 90,
 	"AttMainGroupsCount": 1,
 	"TargetChoice": "Gold"
 }

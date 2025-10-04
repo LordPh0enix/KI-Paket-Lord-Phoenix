@@ -168,7 +168,7 @@
 	"Unknown142": 0,
 	"AttMaxEngineers": 22,
 	"AttDiggingUnit": "Spearman",
-	"AttDiggingUnitMax": 30,
+	"AttDiggingUnitMax": 80,
 	"AttUnit2": "Spearman",
 	"AttUnit2Max": 70,
 	"AttMaxAssassins": 25,
@@ -189,7 +189,7 @@
 	"AttUnitMain2": "Maceman",
 	"AttUnitMain3": "Maceman",
 	"AttUnitMain4": "None",
-	"AttMaxDefault": 300,
+	"AttMaxDefault": 50,
 	"AttMainGroupsCount": 1,
 	"TargetChoice": "Balanced"
 }
