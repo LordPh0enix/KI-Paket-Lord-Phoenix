@@ -184,7 +184,7 @@
 	"AttUnitEngage": "Crossbowman",
 	"AttUnitEngageMax": 30,
 	"AttUnitSiegeDef": "None",
-	"AttUnitSiegeDefMax": 24,
+	"AttUnitSiegeDefMax": 0,
 	"AttUnitSiegeDefGroupsCount": 3,
 	"AttUnitMain1": "Swordsman",
 	"AttUnitMain2": "Pikeman",

@@ -179,7 +179,7 @@
 	"AttUnitPatrolMax": 100,
 	"AttUnitPatrolGroupsCount": 0,
 	"AttUnitBackup": "None",
-	"AttUnitBackupMax": 20,
+	"AttUnitBackupMax": 0,
 	"AttUnitBackupGroupsCount": 0,
 	"AttUnitEngage": "Assassin",
 	"AttUnitEngageMax": 50,
