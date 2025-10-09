@@ -57,7 +57,7 @@
 	"BuildInterval": 1,
 	"ResourceRebuildDelay": 20,
 	"MaxFood": 70,
-	"MinimumApples": -1,
+	"MinimumApples": 0,
 	"MinimumCheese": 4,
 	"MinimumBread": -1,
 	"MinimumWheat": 0,

@@ -58,7 +58,7 @@
 	"ResourceRebuildDelay": 1,
 	"MaxFood": 70,
 	"MinimumApples": 3,
-	"MinimumCheese": -1,
+	"MinimumCheese": 3,
 	"MinimumBread": -1,
 	"MinimumWheat": -1,
 	"MinimumHop": 2,
