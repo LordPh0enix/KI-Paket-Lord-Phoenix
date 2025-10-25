@@ -129,7 +129,7 @@
 	"DefUnit6": "ArabArcher",
 	"DefUnit7": "EuropArcher",
 	"DefUnit8": "Slinger",
-	"RaidUnitsBase": 15,
+	"RaidUnitsBase": 8,
 	"RaidUnitsRandom": 0,
 	"RaidUnit1": "Assassin",
 	"RaidUnit2": "None",

@@ -10,7 +10,40 @@
   "title_7"      : "Sohn von Ragnar Lotbrok",
   "title_8"      : "Anführer der Wikinger",
 
-  "description"  : "Björn, Sohn des legendären Wikingers Ragnar Lotbrok, ist auf seiner Erkundung der Welt nun auf dem arabischen Kontinent angekommen. Er gilt als großer Taktiker, genauso ist er sehr stark und kampferprobt. Er ist der erste bekannte Wikinger, der an die spanische und portugiesische Grenze gesegelt ist, was zeigt dass er sehr willensstark und zielstrebig ist. Nun will er sich auch hier in den weiten der Wüste und Oasen einen Namen machen. Seid vorsichtig und unterschätzt diesen gerissenen Wikinger niemals!"
-}
-
-
+  "description"  : "Björn, Sohn des legendären Wikingers Ragnar Lotbrok, ist auf seiner Erkundung der Welt nun auf dem arabischen Kontinent angekommen. Er gilt als großer Taktiker, genauso ist er sehr stark und kampferprobt. Er ist der erste bekannte Wikinger, der an die spanische und portugiesische Grenze gesegelt ist, was zeigt dass er sehr willensstark und zielstrebig ist. Nun will er sich auch hier in den weiten der Wüste und Oasen einen Namen machen. Seid vorsichtig und unterschätzt diesen gerissenen Wikinger niemals!",
+  
+  "unknown_1"    : "",
+  "taunt_1"      : "",
+  "taunt_2"      : "",
+  "taunt_3"      : "",
+  "taunt_4"      : "",
+  "anger_1"      : "",
+  "anger_2"      : "",
+  "plead"        : "",
+  "nervous_1"    : "",
+  "nervous_2"    : "",
+  "victory_1"    : "",
+  "victory_2"    : "",
+  "victory_3"    : "",
+  "victory_4"    : "",
+  "request"      : "",
+  "thanks"       : "",
+  "ally_death"   : "",
+  "congrats"     : "",
+  "boast"        : "",
+  "help"         : "",
+  "extra"        : "",
+  "kick_player"  : "",
+  "add_player"   : "",
+  "siege"        : "",
+  "no_attack_1"  : "",
+  "no_attack_2"  : "",
+  "no_help_1"    : "",
+  "no_help_2"    : "",
+  "no_sent"      : "",
+  "sent"         : "",
+  "team_winning" : "",
+  "team_losing"  : "",
+  "help_sent"    : "",
+  "will_attack"  : ""
+  }

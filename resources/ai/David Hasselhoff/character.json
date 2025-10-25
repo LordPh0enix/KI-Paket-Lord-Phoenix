@@ -147,7 +147,7 @@
     "HarassingSiegeEngine7": "None",
     "HarassingSiegeEngine8": "None",
     "HarassingSiegeEnginesMax": 4,
-    "RaidRetargetDelay": 12,
+    "RaidRetargetDelay": 2,
     "AttForceBase": 90,
     "AttForceRandom": 0,
     "AttForceSupportAllyThreshold": 0,
