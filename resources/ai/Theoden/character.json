@@ -1,8 +1,8 @@
 {
   "lord": {
-    "StrengthMultiplier": 1.7,
+    "StrengthMultiplier": 1.8,
     "DotCount": 2,
-    "DotColour": "Blue",
+    "DotColour": "green",
     "Type": "Europ"
   },
   "startTroops": {
@@ -69,7 +69,7 @@
 	"MaxWood": 100,
 	"MaxStone": 70,
 	"MaxResourceOther": 12,
-	"MaxEquipment": 27,
+	"MaxEquipment": 24,
 	"MaxBeer": 10,
 	"MaxResourceVariance": 5,
 	"RecruitGoldThreshold": 30,
@@ -92,7 +92,7 @@
 	"SellResource14": "None",
 	"SellResource15": "None",
 	"DefWallPatrolRallyTime": 6,
-	"DefWallPatrolGroups": 5,
+	"DefWallPatrolGroups": 6,
 	"DefSiegeEngineGoldThreshold": 100,
 	"DefSiegeEngineBuildDelay": 12,
 	"Unknown072": 72,

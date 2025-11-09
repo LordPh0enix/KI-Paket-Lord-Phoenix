@@ -24,7 +24,7 @@
   "add_player"   : "Legolas_add_player.wav",
   "siege"        : "send.wav",
   "no_attack_1"  : "not.wav",
-  "no_attack_2"  : ".not aaaaattacktwav",
+  "no_attack_2"  : "not aaaaattackt.wav",
   "no_help_1"    : "no help.wav",
   "no_help_2"    : "not.wav",
   "no_sent"      : "no help.wav",

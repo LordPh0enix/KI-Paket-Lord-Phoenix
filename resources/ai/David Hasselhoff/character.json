@@ -1,6 +1,6 @@
 {
   "lord": {
-    "StrengthMultiplier": 1.5,
+    "StrengthMultiplier": 2.5,
     "DotCount": 2,
     "DotColour": "Blue",
     "Type": "Europ"
@@ -52,7 +52,7 @@
     "MaxIronmines": 5,
     "MaxWoodcutters": 10,
     "MaxPitchrigs": 2,
-    "MaxFarms": 21,
+    "MaxFarms": 18,
     "BuildInterval": 2,
     "ResourceRebuildDelay": 1,
     "MaxFood": 150,

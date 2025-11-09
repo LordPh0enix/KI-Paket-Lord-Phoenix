@@ -1,8 +1,8 @@
  {
   "lord": {
-    "StrengthMultiplier": 2.0,
+    "StrengthMultiplier": 4.0,
     "DotCount": 2,
-    "DotColour": "Blue",
+    "DotColour": "Black",
     "Type": "Europ"
   },
   "startTroops": {
