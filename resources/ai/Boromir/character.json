@@ -191,10 +191,10 @@
 	"AttUnitSiegeDefGroupsCount": 2,
 	"AttUnitMain1": "Swordsman",
 	"AttUnitMain2": "Swordsman",
-	"AttUnitMain3": "Pikeman",
+	"AttUnitMain3": "Swordsman",
 	"AttUnitMain4": "Swordsman",
 	"AttMaxDefault": 60,
-	"AttMainGroupsCount": 2,
+	"AttMainGroupsCount": 1,
 	"TargetChoice": "Balanced"
 }
 }
