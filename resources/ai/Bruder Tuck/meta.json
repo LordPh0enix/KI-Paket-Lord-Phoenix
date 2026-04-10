@@ -8,7 +8,7 @@
   "supportedLang": ["de"],
   "switched": {
     "binks": true,
-    "speech": false,
+    "speech": true,
     "aic": true,
     "aiv": true,
     "lord": true,
