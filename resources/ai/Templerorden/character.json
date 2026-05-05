@@ -9,8 +9,9 @@
   "startTroops": {
     "normal": {
       "Swordsman": 5,
-      "EuropArcher": 5,
-      "Crossbowman": 5
+      "EuropArcher": 8,
+      "Crossbowman": 5,
+	  "Knight": 4
     },
     "crusader": {
 		"Swordsman": 15,
@@ -71,10 +72,10 @@
 	"MaxWood": 100,
 	"MaxStone": 70,
 	"MaxResourceOther": 5,
-	"MaxEquipment": 16,
+	"MaxEquipment": 13,
 	"MaxBeer": 7,
 	"MaxResourceVariance": 2,
-	"RecruitGoldThreshold": 40,
+	"RecruitGoldThreshold": 51,
 	"BlacksmithSetting": "Swords",
 	"FletcherSetting": "Both",
 	"PoleturnerSetting": "Pikes",
@@ -110,7 +111,7 @@
 	"RecruitProbAttackStrong": 72,
 	"SortieUnitRangedMin": 10,
 	"SortieUnitRanged": "EuropArcher",
-	"SortieUnitMeleeMin": 10,
+	"SortieUnitMeleeMin": 6,
 	"SortieUnitMelee": "Pikeman",
 	"DefDiggingUnitMax": 7,
 	"DefDiggingUnit": "EuropArcher",
@@ -127,8 +128,8 @@
 	"DefUnit3": "Crossbowman",
 	"DefUnit4": "Crossbowman",
 	"DefUnit5": "Crossbowman",
-	"DefUnit6": "Crossbowman",
-	"DefUnit7": "Crossbowman",
+	"DefUnit6": "Knight",
+	"DefUnit7": "EuropArcher",
 	"DefUnit8": "EuropArcher",
 	"RaidUnitsBase": 6,
 	"RaidUnitsRandom": 8,
@@ -150,7 +151,7 @@
 	"HarassingSiegeEngine8": "None",
 	"HarassingSiegeEnginesMax": 4,
 	"RaidRetargetDelay": 12,
-	"AttForceBase": 95,
+	"AttForceBase": 80,
 	"AttForceRandom": 0,
 	"AttForceSupportAllyThreshold": 0,
 	"AttForceRallyPercentage": 80,
@@ -175,9 +176,9 @@
 	"AttUnitVanguardMax": 55,
 	"AttMaxAssassins": 0,
 	"AttMaxLaddermen": 0,
-	"AttMaxTunnelers": 10,
+	"AttMaxTunnelers": 20,
 	"AttUnitPatrol": "Crossbowman",
-	"AttUnitPatrolMax": 55,
+	"AttUnitPatrolMax": 30,
 	"AttUnitPatrolGroupsCount": 0,
 	"AttUnitBackup": "None",
 	"AttUnitBackupMax": 0,
@@ -193,6 +194,6 @@
 	"AttUnitMain4": "Swordsman",
 	"AttMaxDefault": 30,
 	"AttMainGroupsCount": 2,
-	"TargetChoice": "Balanced"
+	"TargetChoice": "Gold"
 }
 }
