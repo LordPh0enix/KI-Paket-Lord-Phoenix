@@ -1,4 +1,4 @@
-{
+	{
   "lord": {
     "StrengthMultiplier": 1.8,
     "DotCount": 2,
@@ -92,8 +92,8 @@
 	"SellResource13": "Swords",
 	"SellResource14": "None",
 	"SellResource15": "IronArmors",
-	"DefWallPatrolRallyTime": 6,
-	"DefWallPatrolGroups": 4,
+	"DefWallPatrolRallyTime": 3,
+	"DefWallPatrolGroups": 5,
 	"DefSiegeEngineGoldThreshold": 200,
 	"DefSiegeEngineBuildDelay": 12,
 	"Unknown072": 72,
@@ -192,6 +192,18 @@
 	"AttUnitMain4": "None",
 	"AttMaxDefault": 100,
 	"AttMainGroupsCount": 2,
-	"TargetChoice": "Gold"
+	"TargetChoice": "Gold",
+	
+	"AIOxTethers_DisableInitialOxTether": 1,
+	"AIOxTethers_Logic": 1,
+	"AIOxTethers_MaxOxTethers": 20,
+	"AIOxTethers_DynamicMaxOxTethers": 5,
+	"AIOxTethers_MinimumOxTethersPerQuarry": 3,
+	"AIOxTethers_MaximumOxTethersPerQuarry": 5,
+	"AIOxTethers_ThresholdStoneLoad": 6,
+	"RunningUnits_Macemen": 1,
+	"RunningUnits_Slingers": 1,
+	"RunningUnits_Slaves": 1,
+	"RunningUnits_Spearmen": 1
 }
 }

@@ -192,6 +192,17 @@
 	"AttUnitMain4": "None",
 	"AttMaxDefault": 50,
 	"AttMainGroupsCount": 1,
-	"TargetChoice": "Closest"
+	"TargetChoice": "Closest",
+
+	"AIOxTethers_DisableInitialOxTether": 1,
+	"AIOxTethers_Logic": 1,
+	"AIOxTethers_MaxOxTethers": 34,
+	"AIOxTethers_DynamicMaxOxTethers": 5,
+	"AIOxTethers_MinimumOxTethersPerQuarry": 3,
+	"AIOxTethers_MaximumOxTethersPerQuarry": 5,
+	"AIOxTethers_ThresholdStoneLoad": 6,
+	"RunningUnits_Macemen": 1,
+	"RunningUnits_Slingers": 1,
+	"RunningUnits_Slaves": 1
 }
 }

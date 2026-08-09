@@ -1,6 +1,6 @@
 {
   "lord": {
-    "StrengthMultiplier": 1.5,
+    "StrengthMultiplier": 1.2,
     "DotCount": 2,
     "DotColour": "Blue",
     "Type": "Europ"
@@ -92,7 +92,7 @@
 	"SellResource14": "None",
 	"SellResource15": "None",
 	"DefWallPatrolRallyTime": 3,
-	"DefWallPatrolGroups": 2,
+	"DefWallPatrolGroups": 4,
 	"DefSiegeEngineGoldThreshold": 150,
 	"DefSiegeEngineBuildDelay": 5,
 	"Unknown072": 800,
@@ -115,11 +115,11 @@
 	"RecruitInterval": 0,
 	"RecruitIntervalWeak": 2,
 	"RecruitIntervalStrong": 0,
-	"DefTotal": 80,
+	"DefTotal": 100,
 	"OuterPatrolGroupsCount": 3,
 	"OuterPatrolGroupsMove": "True",
 	"OuterPatrolRallyDelay": 5,
-	"DefWalls": 65,
+	"DefWalls": 85,
 	"DefUnit1": "Crossbowman",
 	"DefUnit2": "EuropArcher",
 	"DefUnit3": "Crossbowman",
@@ -192,6 +192,18 @@
 	"AttUnitMain4": "Monk",
 	"AttMaxDefault": 70,
 	"AttMainGroupsCount": 2,
-	"TargetChoice": "Closest"
+	"TargetChoice": "Closest",
+		
+	"AIOxTethers_DisableInitialOxTether": 1,
+	"AIOxTethers_Logic": 1,
+	"AIOxTethers_MaxOxTethers": 20,
+	"AIOxTethers_DynamicMaxOxTethers": 5,
+	"AIOxTethers_MinimumOxTethersPerQuarry": 3,
+	"AIOxTethers_MaximumOxTethersPerQuarry": 5,
+	"AIOxTethers_ThresholdStoneLoad": 6,
+	"RunningUnits_Macemen": 1,
+	"RunningUnits_Slingers": 1,
+	"RunningUnits_Slaves": 1,
+	"RunningUnits_Spearmen": 1
 }
 }

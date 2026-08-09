@@ -1,7 +1,7 @@
 
 {
   "lord": {
-    "StrengthMultiplier": 2.2,
+    "StrengthMultiplier": 1.8,
     "DotCount": 2,
     "DotColour": "Blue",
     "Type": "Europ"
@@ -94,7 +94,7 @@
 	"SellResource13": "None",
 	"SellResource14": "Maces",
 	"SellResource15": "None",
-	"DefWallPatrolRallyTime": 6,
+	"DefWallPatrolRallyTime": 2,
 	"DefWallPatrolGroups": 4,
 	"DefSiegeEngineGoldThreshold": 200,
 	"DefSiegeEngineBuildDelay": 12,
@@ -118,11 +118,11 @@
 	"RecruitInterval": 1,
 	"RecruitIntervalWeak": 1,
 	"RecruitIntervalStrong": 1,
-	"DefTotal": 90,
+	"DefTotal": 134,
 	"OuterPatrolGroupsCount": 2,
 	"OuterPatrolGroupsMove": "True",
 	"OuterPatrolRallyDelay": 1,
-	"DefWalls": 80,
+	"DefWalls": 110,
 	"DefUnit1": "Crossbowman",
 	"DefUnit2": "EuropArcher",
 	"DefUnit3": "Crossbowman",
@@ -194,6 +194,17 @@
 	"AttUnitMain4": "Swordsman",
 	"AttMaxDefault": 30,
 	"AttMainGroupsCount": 2,
-	"TargetChoice": "Gold"
+	"TargetChoice": "Gold",
+
+	"AIOxTethers_DisableInitialOxTether": 1,
+	"AIOxTethers_Logic": 1,
+	"AIOxTethers_MaxOxTethers": 20,
+	"AIOxTethers_DynamicMaxOxTethers": 5,
+	"AIOxTethers_MinimumOxTethersPerQuarry": 3,
+	"AIOxTethers_MaximumOxTethersPerQuarry": 5,
+	"AIOxTethers_ThresholdStoneLoad": 6,
+	"RunningUnits_Macemen": 1,
+	"RunningUnits_Slingers": 1,
+	"RunningUnits_Slaves": 1
 }
 }
