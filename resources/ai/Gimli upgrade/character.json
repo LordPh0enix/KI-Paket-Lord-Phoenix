@@ -7,9 +7,9 @@
   },
   "startTroops": {
     "normal": {
-      "Crossbowman": 5,
-      "Slinger": 6,
-      "Maceman": 7,
+      "Crossbowman": 10,
+      "Slinger": 7,
+      "Maceman": 10,
 	  "Swordsman": 1
     },
     "crusader": {
@@ -18,9 +18,10 @@
         "Maceman": 20
     },
     "deathmatch": {
-        "Crossbowman": 5,
-        "EuropArcher": 5,
-        "Maceman": 7
+      "Crossbowman": 10,
+      "Slinger": 7,
+      "Maceman": 10,
+	  "Swordsman": 1
     }
   },
   "aic": {
@@ -136,9 +137,9 @@
 	"RaidUnit3": "Maceman",
 	"RaidUnit4": "Maceman",
 	"RaidUnit5": "Maceman",
-	"RaidUnit6": "None",
-	"RaidUnit7": "None",
-	"RaidUnit8": "None",
+	"RaidUnit6": "Maceman",
+	"RaidUnit7": "Maceman",
+	"RaidUnit8": "Maceman",
 	"HarassingSiegeEngine1": "Catapult",
 	"HarassingSiegeEngine2": "None",
 	"HarassingSiegeEngine3": "None",
@@ -169,30 +170,30 @@
 	"Unknown142": 0,
 	"AttMaxEngineers": 26,
 	"AttDiggingUnit": "Maceman",
-	"AttDiggingUnitMax": 40,
+	"AttDiggingUnitMax": 50,
 	"AttUnitVanguard": "Slinger",
-	"AttUnitVanguardMax": 70,
+	"AttUnitVanguardMax": 150,
 	"AttMaxAssassins": 0,
 	"AttMaxLaddermen": 25,
 	"AttMaxTunnelers": 15,
 	"AttUnitPatrol": "Crossbowman",
-	"AttUnitPatrolMax": 35,
+	"AttUnitPatrolMax": 100,
 	"AttUnitPatrolGroupsCount": 0,
 	"AttUnitBackup": "None",
 	"AttUnitBackupMax": 0,
 	"AttUnitBackupGroupsCount": 0,
 	"AttUnitEngage": "Tunneler",
-	"AttUnitEngageMax": 60,
+	"AttUnitEngageMax": 130,
 	"AttUnitSiegeDef": "None",
 	"AttUnitSiegeDefMax": 0,
 	"AttUnitSiegeDefGroupsCount": 1,
 	"AttUnitMain1": "Maceman",
 	"AttUnitMain2": "Maceman",
-	"AttUnitMain3": "Maceman",
+	"AttUnitMain3": "Tunneler",
 	"AttUnitMain4": "Maceman",
 	"AttMaxDefault": 80,
 	"AttMainGroupsCount": 1,
-	"TargetChoice": "Balanced",
+	"TargetChoice": "Gold",
 
 	
 	"AIOxTethers_DisableInitialOxTether": 1,
